@@ -9,4 +9,7 @@ DHT11
 LDR  
 Sim900D  
 
+## schematic
+<img src="assests/Proteus.png">
+
 
